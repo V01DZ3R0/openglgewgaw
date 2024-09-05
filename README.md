@@ -1,2 +1,2 @@
 ## Preview
-![picture would be here](photo.jpg "Preview")
+![picture would be here](photo.png "Preview")
