@@ -1,2 +1,2 @@
 ## Preview
-!(photo.jpg "Preview")
+![](photo.jpg "Preview")
